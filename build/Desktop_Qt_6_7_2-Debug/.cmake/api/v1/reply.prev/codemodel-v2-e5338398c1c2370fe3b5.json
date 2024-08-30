@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a5cf48e30b7790aade1e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Homework_slots_signals",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Homework_slots_signals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Homework_slots_signals-Debug-36d411291b0125a716c7.json",
+					"name" : "Homework_slots_signals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Homework_slots_signals_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Homework_slots_signals_autogen-Debug-03e77e586b8ad11b97e2.json",
+					"name" : "Homework_slots_signals_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Homework_slots_signals_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Homework_slots_signals_autogen_timestamp_deps-Debug-582233d9c2cce83847ed.json",
+					"name" : "Homework_slots_signals_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/gaetanp/Documents/Qt_projects/Homework_slots_signals"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

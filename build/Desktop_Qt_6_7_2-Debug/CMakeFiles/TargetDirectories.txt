@@ -1,0 +1,9 @@
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Homework_slots_signals.dir
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Homework_slots_signals_autogen_timestamp_deps.dir
+/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/Homework_slots_signals_autogen.dir

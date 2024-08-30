@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Homework_slots_signals_FILE /home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/Homework_slots_signals)
+set(__QT_DEPLOY_TARGET_Homework_slots_signals_TYPE EXECUTABLE)
