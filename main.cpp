@@ -2,6 +2,7 @@
 #include <QTextStream>
 #include "person.h"
 #include "driving_license.h"
+#include "print.h"
 
 int main(int argc, char *argv[])
 {

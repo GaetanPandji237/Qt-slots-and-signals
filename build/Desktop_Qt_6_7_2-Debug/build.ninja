@@ -81,6 +81,14 @@ build CMakeFiles/Homework_slots_signals.dir/person.cpp.o: CXX_COMPILER__Homework
   OBJECT_DIR = CMakeFiles/Homework_slots_signals.dir
   OBJECT_FILE_DIR = CMakeFiles/Homework_slots_signals.dir
 
+build CMakeFiles/Homework_slots_signals.dir/print.cpp.o: CXX_COMPILER__Homework_slots_signals_unscanned_Debug /home/gaetanp/Documents/Qt_projects/Homework_slots_signals/print.cpp || cmake_object_order_depends_target_Homework_slots_signals
+  DEFINES = -DQT_CORE_LIB
+  DEP_FILE = CMakeFiles/Homework_slots_signals.dir/print.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always -fPIC
+  INCLUDES = -I/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/build/Desktop_Qt_6_7_2-Debug/Homework_slots_signals_autogen/include -isystem /home/gaetanp/Qt/6.7.2/gcc_64/include/QtCore -isystem /home/gaetanp/Qt/6.7.2/gcc_64/include -isystem /home/gaetanp/Qt/6.7.2/gcc_64/mkspecs/linux-g++
+  OBJECT_DIR = CMakeFiles/Homework_slots_signals.dir
+  OBJECT_FILE_DIR = CMakeFiles/Homework_slots_signals.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Homework_slots_signals
@@ -89,7 +97,7 @@ build CMakeFiles/Homework_slots_signals.dir/person.cpp.o: CXX_COMPILER__Homework
 #############################################
 # Link the executable Homework_slots_signals
 
-build Homework_slots_signals: CXX_EXECUTABLE_LINKER__Homework_slots_signals_Debug CMakeFiles/Homework_slots_signals.dir/Homework_slots_signals_autogen/mocs_compilation.cpp.o CMakeFiles/Homework_slots_signals.dir/main.cpp.o CMakeFiles/Homework_slots_signals.dir/driving_license.cpp.o CMakeFiles/Homework_slots_signals.dir/person.cpp.o | /home/gaetanp/Qt/6.7.2/gcc_64/lib/libQt6Core.so.6.7.2 || Homework_slots_signals_autogen Homework_slots_signals_autogen_timestamp_deps
+build Homework_slots_signals: CXX_EXECUTABLE_LINKER__Homework_slots_signals_Debug CMakeFiles/Homework_slots_signals.dir/Homework_slots_signals_autogen/mocs_compilation.cpp.o CMakeFiles/Homework_slots_signals.dir/main.cpp.o CMakeFiles/Homework_slots_signals.dir/driving_license.cpp.o CMakeFiles/Homework_slots_signals.dir/person.cpp.o CMakeFiles/Homework_slots_signals.dir/print.cpp.o | /home/gaetanp/Qt/6.7.2/gcc_64/lib/libQt6Core.so.6.7.2 || Homework_slots_signals_autogen Homework_slots_signals_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = -Wl,-rpath,/home/gaetanp/Qt/6.7.2/gcc_64/lib:  /home/gaetanp/Qt/6.7.2/gcc_64/lib/libQt6Core.so.6.7.2
   OBJECT_DIR = CMakeFiles/Homework_slots_signals.dir

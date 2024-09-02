@@ -9,6 +9,8 @@ Homework_slots_signals_autogen/timestamp: \
 	/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/main.cpp \
 	/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/person.cpp \
 	/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/person.h \
+	/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/print.cpp \
+	/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/print.h \
 	/home/gaetanp/Qt/6.7.2/gcc_64/include/QtCore/QDebug \
 	/home/gaetanp/Qt/6.7.2/gcc_64/include/QtCore/QObject \
 	/home/gaetanp/Qt/6.7.2/gcc_64/include/QtCore/q20functional.h \

@@ -130,6 +130,12 @@
 			"MU",
 			"EWIEGA46WW/moc_person.cpp",
 			null
+		],
+		[
+			"/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/print.h",
+			"MU",
+			"EWIEGA46WW/moc_print.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -201,6 +207,11 @@
 		],
 		[
 			"/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/person.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/gaetanp/Documents/Qt_projects/Homework_slots_signals/print.cpp",
 			"MU",
 			null
 		]

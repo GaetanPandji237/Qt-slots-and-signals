@@ -16,6 +16,7 @@ add_executable(Homework_slots_signals
   main.cpp
   driving_license.h driving_license.cpp
   person.h person.cpp
+  print.h print.cpp
 )
 target_link_libraries(Homework_slots_signals Qt${QT_VERSION_MAJOR}::Core)
 
