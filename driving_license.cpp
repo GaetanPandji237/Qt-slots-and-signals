@@ -1,4 +1,5 @@
 #include "driving_license.h"
+#include "person.h"
 
 Driving_license::Driving_license(QString name, license_type l_type, QObject *parent)
     : QObject{parent}
@@ -22,5 +23,7 @@ void Driving_license::changeLicense(QString string){
         license = motorcycle;
     }
     setLicenseType(license);
+    Person* person = qobject_cast<Person*>(QObject::sender());
     qInfo() << "New license type: " << license << " for " << this->name;
+    qInfo() << "The sender is: " << person << ". His name is: " << person->getName();
 }

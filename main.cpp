@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
     while(1){
         //QString input;
         QTextStream in(stdin);
-        qInfo() << "Enter either vehicle or motorcycle or truck";
+        qInfo() << "Enter either vehicle or motorcycle or truck\n";
         QString line = in.readLine().trimmed();
         //in >> input;
         if(line.isEmpty()){

@@ -5,6 +5,7 @@ using namespace std;
 Person::Person(QString name, QObject *parent)
     : QObject{parent}
 {
+    this->name = name;
     qInfo() << "New person created: " << name;
 }
 
@@ -20,4 +21,8 @@ void Person::anotherLicense(license_type license){
         emit licenseChanged("vehicle");
         break;
     }
+}
+
+QString Person::getName(){
+    return this->name;
 }
